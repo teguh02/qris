@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">= 5.3.2",
-        "endroid/qr-code": "3.6.1"
+        "endroid/qr-code": "5.0.9"
     },
     "autoload": {
         "psr-4": {
